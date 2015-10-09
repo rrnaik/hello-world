@@ -1,2 +1,2 @@
 # hello-world
-Learning Repository
+Learning Repository to use in a future course
